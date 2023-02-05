@@ -1,0 +1,6 @@
+{
+    "name":"SpyInfestation",
+    "tree":{
+        "$className":"DataModel"
+    }
+}
